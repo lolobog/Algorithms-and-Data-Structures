@@ -1,0 +1,13 @@
+C:\Users\bogda\source\repos\PortfolioNick\PortfolioNick\bin\Debug\netcoreapp3.1\PortfolioNick.exe
+C:\Users\bogda\source\repos\PortfolioNick\PortfolioNick\bin\Debug\netcoreapp3.1\PortfolioNick.deps.json
+C:\Users\bogda\source\repos\PortfolioNick\PortfolioNick\bin\Debug\netcoreapp3.1\PortfolioNick.runtimeconfig.json
+C:\Users\bogda\source\repos\PortfolioNick\PortfolioNick\bin\Debug\netcoreapp3.1\PortfolioNick.runtimeconfig.dev.json
+C:\Users\bogda\source\repos\PortfolioNick\PortfolioNick\bin\Debug\netcoreapp3.1\PortfolioNick.dll
+C:\Users\bogda\source\repos\PortfolioNick\PortfolioNick\bin\Debug\netcoreapp3.1\PortfolioNick.pdb
+C:\Users\bogda\source\repos\PortfolioNick\PortfolioNick\obj\Debug\netcoreapp3.1\PortfolioNick.csprojAssemblyReference.cache
+C:\Users\bogda\source\repos\PortfolioNick\PortfolioNick\obj\Debug\netcoreapp3.1\PortfolioNick.AssemblyInfoInputs.cache
+C:\Users\bogda\source\repos\PortfolioNick\PortfolioNick\obj\Debug\netcoreapp3.1\PortfolioNick.AssemblyInfo.cs
+C:\Users\bogda\source\repos\PortfolioNick\PortfolioNick\obj\Debug\netcoreapp3.1\PortfolioNick.csproj.CoreCompileInputs.cache
+C:\Users\bogda\source\repos\PortfolioNick\PortfolioNick\obj\Debug\netcoreapp3.1\PortfolioNick.dll
+C:\Users\bogda\source\repos\PortfolioNick\PortfolioNick\obj\Debug\netcoreapp3.1\PortfolioNick.pdb
+C:\Users\bogda\source\repos\PortfolioNick\PortfolioNick\obj\Debug\netcoreapp3.1\PortfolioNick.genruntimeconfig.cache
